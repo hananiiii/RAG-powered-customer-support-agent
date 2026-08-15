@@ -1,6 +1,5 @@
 # Nimbus Home — Customer Support Assistant
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Umbrella_Corporation_logo.svg" alt="Project Logo" width="100"/>
 
 ### Overview
 
